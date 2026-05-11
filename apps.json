@@ -1,0 +1,37 @@
+{
+  "name": "r1kut0desu Source",
+  "identifier": "desu.r1kut0.source.rssreader",
+  "subtitle": "Personal apps for r1kut0desu",
+  "description": "Personal SideStore source hosting RssReader iOS app builds.",
+  "website": "https://github.com/r1kut0desu/RssReader_Prd",
+  "tintColor": "5a8bb8",
+  "apps": [
+    {
+      "name": "RssReader",
+      "bundleIdentifier": "dev.r1kut0.RssReader",
+      "developerName": "r1kut0desu",
+      "subtitle": "Reeder-inspired personal RSS reader",
+      "localizedDescription": "Personal RSS reader with Feedly search, Apple Translation, swipe actions, on-device 7-day re-signing via SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/r1kut0desu/RssReader_Prd/main/icon.png",
+      "tintColor": "5a8bb8",
+      "category": "news",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-05-11T00:00:00Z",
+          "downloadURL": "https://raw.githubusercontent.com/r1kut0desu/RssReader_Prd/main/RssReader.ipa",
+          "size": 704060,
+          "localizedDescription": "Initial release. News-digest 30 RSS feeds seeded. Feedly search integrated.",
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      }
+    }
+  ],
+  "news": []
+}
