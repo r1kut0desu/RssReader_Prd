@@ -18,12 +18,12 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "1.1.9",
-          "buildVersion": "11",
-          "date": "2026-05-13T10:50:43Z",
+          "version": "1.2.0",
+          "buildVersion": "12",
+          "date": "2026-05-14T16:07:53Z",
           "downloadURL": "https://raw.githubusercontent.com/r1kut0desu/RssReader_Prd/main/RssReader.ipa",
-          "size": 862477,
-          "localizedDescription": "Build 11 (09796c1) — 2026-05-13T10:50:43Z",
+          "size": 931506,
+          "localizedDescription": "Build 12 (230a689) — 2026-05-14T16:07:53Z",
           "minOSVersion": "18.0"
         }
       ],
